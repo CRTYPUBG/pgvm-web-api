@@ -1,12 +1,12 @@
 {
   "latest": "1.0.0",
-  "apk_old_version": "4.5.0",
-  "apk_new_version": "4.6.0",
+  "apk_old_version": "4.6.0",
+  "apk_new_version": "4.7.0",
   
-  "download": "https://f.gbcass.com/PUBGMOBILE_Global_4.6.0_uawebsite_livik01_5678FCFA.apk",
-  "apk_name": "PUBGMOBILE_Global_4.6.0_glp_64bt_crty_rambo_vr.apk",
+  "download": "https://f.gbcass.com/PUBGMOBILE_Global_4.7.0_uawebsite_livik01_F04C2139.apk",
+  "apk_name": "PUBGMOBILE_Global_4.7.0_glp_64bt_crty_rambo_vr.apk",
   "size": "1,18 GB",
   
   "page": "https://github.com/CRTYYDK-1/PGVM/releases/latest",
-  "announcement": "https://raw.githubusercontent.com/CRTYYDK-1/pgvm-web-api/main/announcement.txt"
+  "announcement": "https://raw.githubusercontent.com/CRTYPUBG/pgvm-web-api/refs/heads/main/announcement.txt"
 }
